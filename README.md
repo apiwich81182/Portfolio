@@ -31,9 +31,8 @@
 * **Github:** [GitHub Repository](https://github.com/KokoKamijo/QC-ITN-Project)
 
 ## Certificates
----
 * [คลิกเพื่อดูใบประกาศ](CCNA-_Introduction_to_Networks_certificate_apiwich-a-kkumail-com_d0b03878-95d9-42df-aed4-1ccf6ff934a5.pdf)
 * [คลิกเพื่อดูใบประกาศ](CCNAITNUpdated20260410-33-lnsm03.pdf)
 * [คลิกเพื่อดูใบประกาศ](Exploring_Networking_with_Cisco_Packet_Tracer_certificate_apiwich-a-kkumail-com_bb93833a-2a82-4049-9c93-3e7dd3b60faa.pdf)
 * [คลิกเพื่อดูใบประกาศ](Getting_Started_with_Cisco_Packet_Tracer_certificate_apiwich-a-kkumail-com_ab4d9716-9ebd-4413-b1b8-a0e62d242390.pdf)
-* ![ชื่อรูป](Screenshot 2026-04-10 213537.png)
+* [คลิกเพือดูคะแนน](/workspaces/Portfolio/Score.png)
