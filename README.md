@@ -35,4 +35,4 @@
 * [คลิกเพื่อดูใบประกาศ](CCNAITNUpdated20260410-33-lnsm03.pdf)
 * [คลิกเพื่อดูใบประกาศ](Exploring_Networking_with_Cisco_Packet_Tracer_certificate_apiwich-a-kkumail-com_bb93833a-2a82-4049-9c93-3e7dd3b60faa.pdf)
 * [คลิกเพื่อดูใบประกาศ](Getting_Started_with_Cisco_Packet_Tracer_certificate_apiwich-a-kkumail-com_ab4d9716-9ebd-4413-b1b8-a0e62d242390.pdf)
-* [คลิกเพือดูคะแนน](/workspaces/Portfolio/Score.png)
+* [คลิกเพือดูคะแนน](Score.png)
